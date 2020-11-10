@@ -6,7 +6,7 @@ import Outdoor from '../assets/pictures/Outdoor.png';
 import Agencia from '../assets/pictures/Agencia.png';
 import Tribe from '../assets/pictures/Tribe.png';
 import Cripto from '../assets/pictures/Cripto.png';
-
+import Torre from '../assets/pictures/Torre.png';
 export interface CardDeckProps {
     
 }
@@ -62,6 +62,16 @@ const CardDeck: React.FunctionComponent<CardDeckProps> = () => {
                     demo={"https://criptomondeas.vercel.app/"}
                 />
 
+            </div>
+            
+            <div className="me">
+            <Card
+                    src={Torre}
+                    title={"Torre Demo Day."}
+                    info={"Using torre API Endpoints to fetch data about jobs and persons using React.js"}
+                    git={"https://github.com/hectorlopezv/torreDemo"}
+                    demo={"https://torre-demo.vercel.app/"}
+                />
             </div>
 
 

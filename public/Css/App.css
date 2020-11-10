@@ -238,7 +238,10 @@ header{
     margin-bottom: 10px!important;
   }
 }
+.me{
+  width: 36.1%;
 
+}
 .card-deck__2{
   margin-top: 3.5rem;
 }
