@@ -23,11 +23,11 @@ const CardDeck: React.FunctionComponent<CardDeckProps> = () => {
                     demo={"https://css-grid-project.vercel.app/"}
                 />
                 <Card
-                    src={Trillo}
-                    title={"Trillo Inc."}
-                    info={"Hotel Website using flex-box as a backbone with Sass"}
-                    git={"https://github.com/hectorlopezv/trillo_flex_box_project"}
-                    demo={"https://trillo-flex-box-project.vercel.app/"}
+                    src={Torre}
+                    title={"Torre Demo Day."}
+                    info={"Using torre API Endpoints to fetch data about jobs or persons,React.js"}
+                    git={"https://github.com/hectorlopezv/torreDemo"}
+                    demo={"https://torre-demo.vercel.app/"}
                 />
                 <Card
                     src={Outdoor}
@@ -64,15 +64,7 @@ const CardDeck: React.FunctionComponent<CardDeckProps> = () => {
 
             </div>
             
-            <div className="me">
-            <Card
-                    src={Torre}
-                    title={"Torre Demo Day."}
-                    info={"Using torre API Endpoints to fetch data about jobs and persons using React.js"}
-                    git={"https://github.com/hectorlopezv/torreDemo"}
-                    demo={"https://torre-demo.vercel.app/"}
-                />
-            </div>
+
 
 
         </div>
