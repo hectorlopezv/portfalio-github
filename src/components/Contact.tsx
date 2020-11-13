@@ -14,7 +14,7 @@ const Contact: React.FunctionComponent<ContactProps> = () => {
         });
       }, []);
     return ( 
-        <div className="container mt-x contact" data-aos="fade-right">
+        <div id="contact" className="container mt-x contact" data-aos="fade-right">
             <h2 className="about-title">
                 Contact
             </h2>

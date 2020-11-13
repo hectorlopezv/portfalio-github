@@ -39,7 +39,7 @@ const About: React.FunctionComponent<AboutProps> = () => {
                         <div className="col-lg-6">
                             <ul>
                                 <li><i className="icofont-rounded-right"><strong>Birthday: </strong>22 December 1995</i></li>
-                                <li><i className="icofont-rounded-right"><strong>Website: </strong>www.demo.com</i></li>
+                                <li><i className="icofont-rounded-right"><strong>Website: </strong>hectorlopezv.github.io/portfalio-github</i></li>
                                 <li><i className="icofont-rounded-right"><strong>Phone: </strong>+57 3205552871</i></li>
                                 <li><i className="icofont-rounded-right"><strong>City: </strong>Barranquilla</i></li>
                             </ul>

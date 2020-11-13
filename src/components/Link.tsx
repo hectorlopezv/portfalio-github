@@ -6,7 +6,7 @@ export interface LinkProps {
 
 }
  /*uses BoxIcon*/
-const Link: React.SFC<LinkProps> = (props) => {
+const Link: React.FunctionComponent<LinkProps> = (props) => {
     const {link, name_icon, } = props;
     return (
         <a  href={link}  rel="noreferrer" target="_blank"><i className={`bx bxl-${name_icon}`}></i><span></span></a>
