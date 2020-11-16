@@ -23,7 +23,7 @@ class Typing_2 extends React.Component {
   render() {
     return (
 
-        <a href="https://drive.google.com/file/d/1pZ_LTTMZaC-MzkAyOzavDzqxvpOv6Hn4/view?usp=sharing" target="blank">&nbsp;
+        <a href="https://drive.google.com/file/d/1zM2QWcKFEQcrSY7P9eLTTsDb7uPGjcbO/view?usp=sharing" target="blank">&nbsp;
           <span className="typed"
             style={{ whiteSpace: "pre" }}
             ref={(el) => {
