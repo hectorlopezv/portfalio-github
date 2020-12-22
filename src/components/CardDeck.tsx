@@ -20,6 +20,8 @@ export interface CardDeckProps {
  
 const CardDeck: React.FunctionComponent<CardDeckProps> = () => {
     return ( 
+     
+
         <Carousel
         additionalTransfrom={0}
         arrows
@@ -43,7 +45,7 @@ const CardDeck: React.FunctionComponent<CardDeckProps> = () => {
               min: 1024
             },
             items: 1,
-            partialVisibilityGutter: 40
+            partialVisibilityGutter: 30
           },
           mobile: {
             breakpoint: {
@@ -55,19 +57,17 @@ const CardDeck: React.FunctionComponent<CardDeckProps> = () => {
           },
           tablet: {
             breakpoint: {
-              max: 1024,
+              max: 1023,
               min: 464
             },
-            items: 2,
+            items: 1,
             partialVisibilityGutter: 30
-          }
+          },
         }}
         showDots={false}
         sliderClass=""
         slidesToSlide={1}
         swipeable
-          
-          
           >
 
 <div className="container container-card">
@@ -173,14 +173,9 @@ const CardDeck: React.FunctionComponent<CardDeckProps> = () => {
                 />
 
             </div>
-            
-
-
 
         </div>
         
-        
- 
     
          </Carousel>
         
