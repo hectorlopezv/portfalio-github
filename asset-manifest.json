@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ac928dff.chunk.css",
+    "main.js": "/static/js/main.99ea8526.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.743e167a.js",
+    "static/css/2.ddfbd9fe.chunk.css": "/static/css/2.ddfbd9fe.chunk.css",
+    "static/js/2.4dea87f0.chunk.js": "/static/js/2.4dea87f0.chunk.js",
+    "static/js/3.d2ed963b.chunk.js": "/static/js/3.d2ed963b.chunk.js",
+    "index.html": "/index.html",
+    "static/js/2.4dea87f0.chunk.js.LICENSE.txt": "/static/js/2.4dea87f0.chunk.js.LICENSE.txt",
+    "static/media/Agencia.27bff0e6.png": "/static/media/Agencia.27bff0e6.png",
+    "static/media/Cara.27ddc085.png": "/static/media/Cara.27ddc085.png",
+    "static/media/Cripto.1583afe9.png": "/static/media/Cripto.1583afe9.png",
+    "static/media/Foto.80b389e5.png": "/static/media/Foto.80b389e5.png",
+    "static/media/Nexter.8936c4e6.png": "/static/media/Nexter.8936c4e6.png",
+    "static/media/Outdoor.58275013.png": "/static/media/Outdoor.58275013.png",
+    "static/media/Torre.4286dd52.png": "/static/media/Torre.4286dd52.png",
+    "static/media/Tribe.8ff950af.png": "/static/media/Tribe.8ff950af.png",
+    "static/media/amazon.f46d7fa3.png": "/static/media/amazon.f46d7fa3.png",
+    "static/media/burger.fa88751b.png": "/static/media/burger.fa88751b.png",
+    "static/media/covid.9f58bcaa.png": "/static/media/covid.9f58bcaa.png",
+    "static/media/discord.6833fba7.png": "/static/media/discord.6833fba7.png",
+    "static/media/icofont.min.css": "/static/media/icofont.dad3accb.woff",
+    "static/media/netflix.73e43b22.png": "/static/media/netflix.73e43b22.png",
+    "static/media/netflixv1.3525adb4.png": "/static/media/netflixv1.3525adb4.png",
+    "static/media/styles.css": "/static/media/revicons.e8746a62.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.743e167a.js",
+    "static/css/2.ddfbd9fe.chunk.css",
+    "static/js/2.4dea87f0.chunk.js",
+    "static/css/main.ac928dff.chunk.css",
+    "static/js/main.99ea8526.chunk.js"
+  ]
+}
