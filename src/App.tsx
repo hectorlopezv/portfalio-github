@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 import './icofont.min.css';
+import './bootstrap.min.css';
 import NavBar from './components/NavBar';
 import Home from './components/Home';
 import About from './components/About';
