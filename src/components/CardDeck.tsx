@@ -84,7 +84,7 @@ const CardDeck: React.FunctionComponent<CardDeckProps> = () => {
                         title={"Netflix Clone V1"}
                         info={"Netflix UI cloneV1 using the following React,Ts, React-youtube, movie-trailer, axios IMDb API"}
                         git={"https://github.com/robpalacios1/netflix-ts"}
-                        demo={"netflix-clone-seven-kappa.vercel.app/"}
+                        demo={"https://netflix-clone-seven-kappa.vercel.app/"}
                     />
                     <Card
                         src={Covid}
