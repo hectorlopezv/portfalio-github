@@ -116,7 +116,7 @@ const CardDeck: React.FunctionComponent<CardDeckProps> = () => {
                         title={"Amazon UI clone"}
                         info={"Amazon UI clone with Payment using stripe.js, redux/sagas, ts, React......(In Progress)"}
                         git={"https://github.com/hectorlopezv/Amazon-ts-clone-lite"}
-                        demo={"https://hectorlopezv.github.io/portfalio-github/"}
+                        demo={"https://clone-ts.web.app/"}
                     />
     
                 </div>
