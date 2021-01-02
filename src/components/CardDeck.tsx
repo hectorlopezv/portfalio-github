@@ -14,6 +14,7 @@ import Burger from '../assets/pictures/burger.png';
 import Discord from '../assets/pictures/discord.png';
 import 'react-multi-carousel/lib/styles.css';
 import Amazon from '../assets/pictures/amazon.png';
+import Facebook from '../assets/pictures/Facebook.png';
 export interface CardDeckProps {
     
 }
@@ -70,7 +71,7 @@ const CardDeck: React.FunctionComponent<CardDeckProps> = () => {
         swipeable
           >
 
-<div className="container container-card">
+    <div className="container container-card">
             <div className="card-deck card-deck__1">
                     <Card
                         src={Netflix}
@@ -121,7 +122,7 @@ const CardDeck: React.FunctionComponent<CardDeckProps> = () => {
     
                 </div>
                 
-         </div>
+    </div>
 
         <div className="container container-card">
             <div className="card-deck card-deck__1">
@@ -176,6 +177,22 @@ const CardDeck: React.FunctionComponent<CardDeckProps> = () => {
 
         </div>
         
+        <div className="container container-card">
+
+        <div className="card-deck card-deck__1">
+            <Card
+                    src={Facebook}
+                    title={"Facebook UI clone."}
+                    info={"facebook UI clone using firebase and mongodb with pusher for real time"}
+                    git={"https://github.com/hectorlopezv/facebook-ui-clone-ts"}
+                    demo={"https://facebook-ui-clone.web.app"}
+                />
+        </div>
+        <div className="card-deck card-deck__2">
+
+        </div>
+
+        </div>
     
          </Carousel>
         
