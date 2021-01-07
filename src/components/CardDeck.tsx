@@ -15,6 +15,7 @@ import Discord from '../assets/pictures/discord.png';
 import 'react-multi-carousel/lib/styles.css';
 import Amazon from '../assets/pictures/amazon.png';
 import Facebook from '../assets/pictures/Facebook.png';
+import Spotify from '../assets/pictures/Spotify.png';
 export interface CardDeckProps {
     
 }
@@ -186,6 +187,13 @@ const CardDeck: React.FunctionComponent<CardDeckProps> = () => {
                     info={"facebook UI clone using firebase and mongodb with pusher for real time"}
                     git={"https://github.com/hectorlopezv/facebook-ui-clone-ts"}
                     demo={"https://facebook-ui-clone.web.app"}
+                />
+                    <Card
+                    src={Spotify}
+                    title={"Spotify UI Clone - Controller."}
+                    info={"Spotify UI Clone using Spotify Web api to control the main App"}
+                    git={"https://github.com/hectorlopezv/spotifiy-ui-clone"}
+                    demo={"https://spotifi-ui-clone.web.app/"}
                 />
         </div>
         <div className="card-deck card-deck__2">
