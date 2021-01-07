@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfalio-github/static/css/main.16ace643.chunk.css",
-    "main.js": "/portfalio-github/static/js/main.282eacb8.chunk.js",
+    "main.js": "/portfalio-github/static/js/main.0a953756.chunk.js",
     "runtime-main.js": "/portfalio-github/static/js/runtime-main.753d237c.js",
     "static/css/2.9c2fb340.chunk.css": "/portfalio-github/static/css/2.9c2fb340.chunk.css",
     "static/js/2.b32f993f.chunk.js": "/portfalio-github/static/js/2.b32f993f.chunk.js",
@@ -15,6 +15,7 @@
     "static/media/Foto.80b389e5.png": "/portfalio-github/static/media/Foto.80b389e5.png",
     "static/media/Nexter.8936c4e6.png": "/portfalio-github/static/media/Nexter.8936c4e6.png",
     "static/media/Outdoor.58275013.png": "/portfalio-github/static/media/Outdoor.58275013.png",
+    "static/media/Spotify.776a1b32.png": "/portfalio-github/static/media/Spotify.776a1b32.png",
     "static/media/Torre.4286dd52.png": "/portfalio-github/static/media/Torre.4286dd52.png",
     "static/media/Tribe.8ff950af.png": "/portfalio-github/static/media/Tribe.8ff950af.png",
     "static/media/amazon.f46d7fa3.png": "/portfalio-github/static/media/amazon.f46d7fa3.png",
@@ -31,6 +32,6 @@
     "static/css/2.9c2fb340.chunk.css",
     "static/js/2.b32f993f.chunk.js",
     "static/css/main.16ace643.chunk.css",
-    "static/js/main.282eacb8.chunk.js"
+    "static/js/main.0a953756.chunk.js"
   ]
 }
