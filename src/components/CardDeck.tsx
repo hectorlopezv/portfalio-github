@@ -78,14 +78,14 @@ const CardDeck: React.FunctionComponent<CardDeckProps> = () => {
                     <Card
                         src={Netflix}
                         title={"Netflix UI clone V2."}
-                        info={"Netflix UI clone using the following React,Ts, Context-API, Redux, firebase, StyleComponents, Auth, Login, Logout"}
+                        info={"Netflix UI clone using the following React-typescript Context-API, Redux, firebase, StyleComponents, Auth, Login, Logout"}
                         git={"https://github.com/hectorlopezv/netflixv2-clone-ts"}
                         demo={"https://netflix-clone-ts.web.app/"}
                     />
                     <Card
                         src={netflixV1}
                         title={"Netflix Clone V1"}
-                        info={"Netflix UI cloneV1 using the following React,Ts, React-youtube, movie-trailer, axios IMDb API"}
+                        info={"Netflix UI cloneV1 using the following React-typescript, React-youtube, movie-trailer, axios IMDb API"}
                         git={"https://github.com/robpalacios1/netflix-ts"}
                         demo={"https://netflix-clone-seven-kappa.vercel.app/"}
                     />
@@ -163,7 +163,7 @@ const CardDeck: React.FunctionComponent<CardDeckProps> = () => {
                 <Card
                     src={Tribe}
                     title={"Tribe Labs Inc."}
-                    info={"npm Package developed with typeScript using Bodypix as a Backone for the tribeTeam."}
+                    info={"npm Package developed with typeScript using Bodypix as a Backone for the tribeTeam. React."}
                     git={"https://github.com/hectorlopezv/tribe_lib_package"}
                     demo={"https://tribedemo.vercel.app/"}
                 />
@@ -185,14 +185,14 @@ const CardDeck: React.FunctionComponent<CardDeckProps> = () => {
             <Card
                     src={Facebook}
                     title={"Facebook UI clone."}
-                    info={"facebook UI clone using firebase and mongodb with pusher for real time"}
+                    info={"facebook UI clone using firebase and mongodb with pusher for real time, React-typescript"}
                     git={"https://github.com/hectorlopezv/facebook-ui-clone-ts"}
                     demo={"https://facebook-ui-clone.web.app"}
                 />
                     <Card
                     src={Spotify}
                     title={"Spotify UI Clone - Controller."}
-                    info={"Spotify UI Clone using Spotify Web api to control the main App"}
+                    info={"Spotify UI Clone using Spotify Web api to control the main App, React-typescript"}
                     git={"https://github.com/hectorlopezv/spotifiy-ui-clone"}
                     demo={"https://spotifi-ui-clone.web.app/"}
                 />
@@ -200,7 +200,7 @@ const CardDeck: React.FunctionComponent<CardDeckProps> = () => {
                 <Card
                     src={Google}
                     title={"Google Search Engine UI clone"}
-                    info={"Google Search Engine UI clone using programable search Engine"}
+                    info={"Google Search Engine UI clone using programable search Engine , React-typescript"}
                     git={"https://github.com/hectorlopezv/google-UI-Clone-search"}
                     demo={"https://ui-clone-142e1.web.app/"}
                 />
