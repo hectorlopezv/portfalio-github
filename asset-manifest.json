@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfalio-github/static/css/main.16ace643.chunk.css",
-    "main.js": "/portfalio-github/static/js/main.48301c7a.chunk.js",
+    "main.js": "/portfalio-github/static/js/main.162f4975.chunk.js",
     "runtime-main.js": "/portfalio-github/static/js/runtime-main.753d237c.js",
     "static/css/2.9c2fb340.chunk.css": "/portfalio-github/static/css/2.9c2fb340.chunk.css",
     "static/js/2.b32f993f.chunk.js": "/portfalio-github/static/js/2.b32f993f.chunk.js",
@@ -33,6 +33,6 @@
     "static/css/2.9c2fb340.chunk.css",
     "static/js/2.b32f993f.chunk.js",
     "static/css/main.16ace643.chunk.css",
-    "static/js/main.48301c7a.chunk.js"
+    "static/js/main.162f4975.chunk.js"
   ]
 }
